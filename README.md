@@ -5,9 +5,13 @@
 > Coding articles to level up your development skills
 
 * Visit [the website](https://30secondsofcode.org) to view all articles.
+## Ilerde bakabilirim!!
 * Search for articles and collections that suit your needs, using the name, tags, language or description.
+## Ilerde bakabilirim!!
 * Browse all [articles](https://30secondsofcode.org/snippets/p/1) or individual [collections](https://30secondsofcode.org/collections/p/1) for each topic.
+## Ilerde bakabilirim!!
 * Click on each card to view the whole article, including code snippets, explanation and examples.
+## Ilerde bakabilirim!!
 * If you like the project, give it a star. It means a lot.
 
 ## Want to contribute?
